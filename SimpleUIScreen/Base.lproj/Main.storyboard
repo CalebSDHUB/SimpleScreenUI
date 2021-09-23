@@ -119,7 +119,7 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="BMI Details" id="EuD-Id-RvT">
-                        <barButtonItem key="leftBarButtonItem" enabled="NO" title="Arrow Back" image="arrow_back" id="bYs-lH-k5t">
+                        <barButtonItem key="leftBarButtonItem" enabled="NO" title="Arrow Back" image="chevron.left" catalog="system" id="bYs-lH-k5t">
                             <inset key="largeContentSizeImageInsets" minX="0.0" minY="1" maxX="0.0" maxY="0.0"/>
                             <color key="tintColor" systemColor="systemBackgroundColor"/>
                         </barButtonItem>
@@ -152,8 +152,8 @@
         </scene>
     </scenes>
     <resources>
-        <image name="arrow_back" width="54" height="84"/>
         <image name="background" width="752" height="1082"/>
+        <image name="chevron.left" catalog="system" width="96" height="128"/>
         <image name="double_line_transparent" width="766" height="82"/>
         <image name="footer" width="1075" height="278"/>
         <image name="rate_button" width="282" height="126"/>
